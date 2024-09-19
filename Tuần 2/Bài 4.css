@@ -1,0 +1,56 @@
+*{
+    margin:0px auto;
+    padding:0px;
+}
+.wapper{
+    Width:960px;
+    height:auto;
+    border:1px solid;
+}
+header{
+    height:100px;
+    width:100%
+}
+header img{
+    width:400px;
+    height:auto;
+    float:right;
+
+}
+header hr{
+     width:98%;text-align:left;margin-left:0;
+     border-width: 2px;
+     background-color:chocolate;
+}
+.menu-doc{
+    width:200px;
+    height:auto;
+    background-image: url(/Image/Tuan2/Bai4/back.jpg);
+    float:left;
+    position: absolute;
+    
+}
+.menu-doc ul{
+padding-left:20px;
+}
+.menu-doc ul li{
+    list-style: none;
+    margin:10px;
+    color:rgb(72, 7, 142);
+    border-style: dashed;
+    border-top:1px;
+    border-right:1px;
+    border-left:1px;
+}
+.right{
+    width:760px;
+}
+.right h3{
+    float:left;
+    margin-left:110px;
+    padding-top:10px;
+    color:coral;
+    font-weight: 10px bold ;
+    font-size:20px;
+}
+

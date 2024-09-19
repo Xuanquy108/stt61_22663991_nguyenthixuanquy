@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin:0px auto;
+            padding:0px;
+        }
+        .wapper{
+            width:960px;
+            background-color:bisque;
+            border: 1px dotted blue;
+        }
+        header{
+            height:150px;
+            width:960px;
+            background-color:azure;
+        }
+        .content{
+            height:500px;
+            width:960px;
+            background-color: aqua;
+        }
+        .menu-doc{
+            height:500px;
+            width:200px;
+            background-color: aquamarine;
+            float:left;
+            padding:10px;
+
+        }
+        .menu li{
+            margin:3px;
+            height:60px;
+            width: 100%;
+            line-height: 60px;
+            border:1px solid gray;
+            border-radius: 10px;
+            list-style:none;
+            text-indent: 20px;
+            text-decoration: none;
+        }
+        .content-left{
+            height:500px;
+            width:760px;
+            background-color:bisque;
+            float:left;
+        }
+        footer{
+            height:150px;
+            width:960px;
+            background-color:rgb(19, 166, 166);
+        }
+    </style>
+</head>
+<body>
+    <div class="wapper">
+        <header>
+            <ul class="menu">
+                <li><a href="#">Item 1</a></li>
+                <li><a href="#">Item 2</a></li>
+                <li><a href="#">Item 3</a></li>
+                <li><a href="#">Item 4</a></li>
+                <li><a href="#">Item 5</a></li>
+            </ul>
+        </header>
+        <div class="content">
+            <div class="menu-doc">
+                <ul class="menu">
+                    <li><a href="#">Item 1</a></li>
+                    <li><a href="#">Item 2</a></li>
+                    <li><a href="#">Item 3</a></li>
+                    <li><a href="#">Item 4</a></li>
+                    <li><a href="#">Item 5</a></li>
+                </ul>
+            </div>
+            <div class="content-left"></div>
+        </div>
+        <footer></footer>
+    </div>
+</body>
+</html>

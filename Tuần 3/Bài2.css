@@ -1,0 +1,156 @@
+
+/* *{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px auto;
+}
+.wrapper{
+    width: 960px;
+    height: 700px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+* Header{
+    background-color: #294e79;
+    width: 960px;
+    height: 150px;
+    position: relative;
+}
+
+header img{
+    position: absolute;
+    top:10px;
+    left: 10px;
+  
+}
+header h1{
+    position: absolute;
+    top:10px;
+    left:100px;
+    color:white;
+}
+header h5 {
+    position: absolute;
+    top:50px;
+    left: 100px;
+    color:white;
+}
+header #frm1{
+    position:absolute;
+    top:10px;
+    right: 30px;
+    background-color:rgb(86,138,184);
+    color:azure;
+}
+header #frm1 input{
+    background-color: rgb(9,32,53);
+}
+header #frm1 button{
+    background-color: rgb(9,32,53);
+}
+nav{
+    position: absolute;
+    bottom: 0px;
+    left: 400px;
+}
+#menu li{
+    margin-bottom: 20px;
+}
+#menu ul li a{
+    list-style: none; 
+    background:rgb(95,207,251);
+    text-decoration:none;
+    display:inline-table;
+    height:50px;
+    text-align:center;
+    color:white;
+    text-transform:uppercase;
+    width:100%;
+    margin-left:70%;
+}
+
+    /* color:aliceblue;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none; */
+
+.menu li:hover>a{
+    color:blue;            
+}
+.content{
+    background-color: #f7f8f9;
+    width: 960px;
+    height: 450px;
+}
+/* footer{
+    background-color: #294e79;
+    width: 960px;
+    height: 100px;
+    position: relative;
+} */
+section{
+    height:100%;
+    width:70%;
+    background-color: white;
+    float:left;           
+}
+aside{
+    height:100%;
+    width:30%;
+    background-color:rgb(243, 238, 238);
+    float:right;
+ 
+}
+aside img{
+    padding:10px;
+   }
+/* footer{
+    background-color:darkblue;
+   text-
+    color:rgb(85, 143, 250); */
+
+
+
+
+
+
+/* 
+
+
+.menu li a{
+    color:aliceblue;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none;
+}
+.menu li:hover>a{
+    color:blue;            
+}
+.content{
+    background-color: #dae0e7;
+    width: 960px;
+    height: 450px;
+}
+footer{
+    background-color: #294e79;
+    width: 960px;
+    height: 100px;
+    position: relative;
+}
+section{
+    height:100%;
+    width:70%;
+    background-color: antiquewhite;
+    float:left;           
+}
+aside{
+    height:100%;
+    width:30%;
+    background-color:rgb(190,166,133);
+    float:left;
+}
+footer{
+    background-color:darkblue;
+   text-
+    color:rgb(85, 143, 250);
+} */ */

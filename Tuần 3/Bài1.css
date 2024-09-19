@@ -1,0 +1,127 @@
+*{
+    margin:0px auto;
+    padding:0px;
+}
+.wapper{
+    width:960px;
+    margin:0px;
+    padding:0px;
+    background-image: linear-gradient(#80d9f7dc, #10a0da)
+}
+.header{
+    width:100%;
+    height:150px;
+    display:inline-block;
+
+}
+header nav ul li{
+    display:inline-block;
+    padding:10px;
+    color:white;
+    font-weight: 1000px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+header nav ul li:hover{
+color:blue
+}
+
+header p{
+    float:right;
+    display:inline-block;
+    color:white;
+    font-size:larger;
+    padding-top:10px;
+    margin-top:10px;
+    margin-right:20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black, 0 0 30px blue, 0 0 20px darkblue;
+
+} 
+.content{
+    width:960px;
+    Height:500px;    
+    margin-left:10px;
+    float:left;
+}
+.left{
+    Width:500px;
+    float:left;
+}
+.right{
+    width:460px;
+    float:left;
+}
+.content h1{
+    color:white;
+}
+.content p{
+    color:white;
+}
+.lbl{
+    width:100%;
+    height:60%;
+    margin-left:40px;
+    padding:10px;
+    color:white;
+    float:left;
+}
+.inp{
+    width:100%;
+    height:40%;
+    width:300px;
+    float:left;
+}
+/* .content form lable input{
+ margin-left:5px blue;
+ border-radius:5px;
+ color:darkgray;
+ border-color: #10a0da;
+}
+
+.content form lable select{
+    border-radius:5px;
+    border-color: #10a0da;
+}
+.content form lable textarea{
+    color:darkgray;
+    border-radius:5px;
+    border-color: #10a0da;
+}
+#section input{
+    background-color:rgb(197, 194, 194);
+    border:dashed;
+    border-radius:5px;
+} */
+.right{
+    Width:500px;
+    height:500px;
+    float:left;
+}
+.content img{
+    width:200px;
+    height:auto;
+    float:right;
+
+}
+/* .content h2{
+    color:blue;
+    text-shadow: 2px -1px ;float:right;
+} */
+/* .content h3{
+    color:blue;
+    float:right;
+} */
+/* .footer{
+    height:100px;
+    width:100%;
+    color:white;
+    text-align: center;
+    margin-bottom:5px;
+} */
+/* p.sky{
+    padding-top:5px;
+    text-align: center;
+
+} */
+

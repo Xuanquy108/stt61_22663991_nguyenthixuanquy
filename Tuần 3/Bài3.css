@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+.wapper{
+    margin:10px;
+    padding:0;
+}
+header{
+    background-color: chocolate;
+}
+header p{
+    color:darkolivegreen;
+    text-shadow: -5px -2px 5px white;
+    font-family:sans-serif;
+    font-size:20px ;
+    word-spacing: 5px;
+}
